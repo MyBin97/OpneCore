@@ -1,4 +1,4 @@
-### OC引导文件分享
+### OpenCoe引导文件
 
 <u>当前版本：OC 0.6.1(支持Catalina 15.6、BigSur）</u>
 
