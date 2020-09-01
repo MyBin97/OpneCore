@@ -12,16 +12,15 @@
 | 显卡 | 蓝宝石 RX580 |
 
 #### 2.系统截图
-
-![](http://bbs.pcbeta.com/data/attachment/forum/202003/30/230028r4kv7l7l44cjlmc7.jpg)
-
-
-
-![](http://bbs.pcbeta.com/data/attachment/forum/202003/30/230031etat1ub31tj1tqaa.png)
+![](截图/1.jpg)
 
 
 
-![](http://bbs.pcbeta.com/data/attachment/forum/202003/30/231236yfbydefbcyalldy0.jpg)
+![](截图/2.png)
+
+
+
+![](截图/3.jpg)
 
 
 
