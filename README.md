@@ -6,12 +6,26 @@
 
 #### 1.配置清单:
 
-| CPU  |        AMD 2600         |
-| :--: | :---------------------: |
+| CPU | AMD 2600 |
+| :----: | :------: |
 | 主板 | B450M MORTAR MAX 迫击炮 |
-| 显卡 |      蓝宝石 RX580       |
+| 显卡 | 蓝宝石 RX580 |
 
-#### 2.更新历史
+#### 2.系统截图
+
+![](http://bbs.pcbeta.com/data/attachment/forum/202003/30/230028r4kv7l7l44cjlmc7.jpg)
+
+
+
+![](http://bbs.pcbeta.com/data/attachment/forum/202003/30/230031etat1ub31tj1tqaa.png)
+
+
+
+![](http://bbs.pcbeta.com/data/attachment/forum/202003/30/231236yfbydefbcyalldy0.jpg)
+
+
+
+#### 3.更新历史
 
 ##### 2020.9.1日更新
 
@@ -25,7 +39,7 @@
 
 5.添加AMD显卡驱动（保持Win下性能）
 
-#### 3.其它
+#### 4.其它
 
 该引导仅在以上配置上进行测试，其它配置还请自测，如果其它MSI B450主板要使用请自定义以下内容
 
