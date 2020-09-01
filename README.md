@@ -1,2 +1,6 @@
-# 2600-B450M
-AMD 2600+B450M 黑苹果OpenCore引导文件
+# AMD 2600+MSI B450M+RX580
+黑苹果OpenCore引导文件分享
+配置如下：
+AMD 2600 
+MSI B450M MORTAR MAX迫击炮
+蓝宝石RX580
