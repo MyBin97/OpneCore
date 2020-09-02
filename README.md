@@ -13,7 +13,7 @@
 | 显卡 | 蓝宝石 RX580 |
 
 #### 2.系统截图
-![](https://github.com/MyBin97/OpenCore/blob/master/%E6%88%AA%E5%9B%BE/2.png) 
+![](https://ali.xmssdn.micloud.mi.com/2/1566455553514/get_thumbnail?sig=XL266dCP4YjpSLHnOixykeWqncI&data=Rz0-POupByXgAZAHNiBwKsNHkhOLJVfEF92nsNCbIurIkagptvTEjTMMcAfl9jx0bmVUzWVC6syuKrWopwjm_Upm0tGmCHKwlEM-297ZDw7Y7Dxx_MidYX17fo3DjUwO6Dmh01BGRMrDXEFAqCp4110GleewFYo86Gu_rgK-_KMcu5EI4I1suo8hLvTKBgbPfcFcIWM4EbLon9R5J4Ys1-01mqoIcmcbVJFK9y-nhoh2Kyv7phmE1iia-5bsTBCHa0DdCOdM40Ye1pzbSsd-UF0d7XTxhyzJy0CIVzyskNEu1YFUfdRrykxLMlDxk2yCu3-5wkzmEcY&ts=1599101107063&w=1080&h=1080&r=0&_cachekey=8aecac408587236794170abcd9438165) 
 
 
 
