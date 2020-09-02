@@ -13,15 +13,16 @@
 | 显卡 | 蓝宝石 RX580 |
 
 #### 2.系统截图
-![](https://img-view-c.cdn.yun.cn/5f4f082a7c834e4f29b944c387178b80f111aa8e/5f4f082acb427222b4f143c9be559bdebe03a64b/preview?auth_key=1599018630-35-3600-ee5d6c5ed5e4d8d7659348dfc2977ef4&sp=378&token=2-536242fcd411e113996960d14260f756-0-3-1024-21e48d2c05964403802f7b2cb1f5a934-e231671c71b8fdba46c40f6548a5fe87) 
+
+![](https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/e8a25b45-aaba-4941-9258-992399409537.jpg?response-content-disposition=attachment%3Bfilename%3D%221.jpg%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=KoAK5qsbzuR/yb0GQd8Jv7bRaXk%3D&AWSAccessKeyId=18bd696e8df5d7a48893&Expires=1599026438&x-amz-FSIZE=36470&x-amz-UID=0&x-amz-UFID=71410211338591613)
 
 
 
-![](https://img-view-c.cdn.yun.cn/5f4f082a2318cae8806a411f81bd3d50c0f0ddad/5f4f082a579a4a914e0d4311bfe71c9d05a6fe98/preview?auth_key=1599018692-63-3600-59a19e97225147768202c20e1dab65ae&sp=378&token=2-536242fcd411e113996960d14260f756-0-3-1024-a1bf834c12b54f6295fbc4b26c352067-3f4f44328cb9f8285d788d2c9332d0f1)
+![](https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/336a9e67-c5e2-4808-a3f3-1353f1d6ec0c.png?response-content-disposition=attachment%3Bfilename%3D%222.png%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=fpdDNpg7m9GIzX8B/1MSyt0i69A%3D&AWSAccessKeyId=18bd696e8df5d7a48893&Expires=1599026529&x-amz-FSIZE=64609&x-amz-UID=0&x-amz-UFID=71425211338747548)
 
 
 
-![](https://img-view-c.cdn.yun.cn/5f4f082a02c76c8eac7743d6a47bd91f17f50697/5f4f082a1b4cf961e8024601950556f8cb286726/preview?auth_key=1599018703-182-3600-96d3e85a482fb074980782a198ce7718&sp=378&token=2-536242fcd411e113996960d14260f756-0-3-1024-f83802cff4a04bfdaedd99e757354542-b94818b528a4d4b76f3175de3377e2ba)
+![](https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/3f2a834d-fb5e-4a4b-be58-a6c036bb95b1.jpg?response-content-disposition=attachment%3Bfilename%3D%223.jpg%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=FBhntMLg/27ZbGXEMVkPavxvmvY%3D&AWSAccessKeyId=18bd696e8df5d7a48893&Expires=1599026542&x-amz-FSIZE=187342&x-amz-UID=0&x-amz-UFID=41442211340176428)
 
 
 
