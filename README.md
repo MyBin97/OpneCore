@@ -1,5 +1,3 @@
-## OC引导文件
-
 ### 兼容版
 
 #### 当前OC版本：正式版0.6.0，支持Catalina 15.6（需要引导BigSur请下载[Beat](https://github.com/MyBin97/OpneCore/tree/Beat)分支版引导文件)
