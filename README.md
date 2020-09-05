@@ -6,7 +6,7 @@
 
 1.当前OC版本：正式版0.6.0，支持Catalina 15.6及以下系统（需要引导BigSur请下载[Beat](https://github.com/MyBin97/OpneCore/tree/Beat)分支版引导文件)
 
-2.如果你的主板、显卡和我一模一样，那你可以下载[Perfect]()分支版本，这个版本是我自己使用的，完善了网卡内建、声卡注入、显卡注入、USB定制、睡眠唤醒等，并且会优先更新
+2.如果你的主板、显卡和我一模一样，那你可以下载[Perfect](https://github.com/MyBin97/OpneCore/tree/Perfect)版本，这个是我自己使用的，比较完善，并且会优先更新
 
 3.我的配置:
 
