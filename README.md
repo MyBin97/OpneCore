@@ -26,7 +26,7 @@
 
 3.安装成功后请自行更改三码
 
-4.安装成功后自行注入声卡、网卡以及USB定制（可解决声音、Siri、iMessage、睡眠唤醒），参考**其它**或自行搜索相关教程
+4.安装成功后自行注入声卡、网卡、显卡以及USB定制（可解决声音、Siri、iMessage、发挥显卡win下性能、睡眠唤醒），参考**其它**或自行搜索相关教程
 
 5.测试主板：MSI B450 PRO VDH、B450M MORTAR MAX，在这两块主板上各项工能都正常
 
@@ -54,11 +54,15 @@
 
 #### 五、其它
 
+**大致说一下**
+
 1.网卡内建：打开Hackintool，点击PCIe找到自己对应网卡，然后复制Device path，然后填写到OC配置文件config.plist的DeviceProperties-Add第二个里面
 
 2.声卡注入：打开Hackintool，点击PCIe找到自己对应网卡，然后复制Device path，然后填写到OC配置文件config.plist的DeviceProperties-Add第一个里面
 
 3.USB定制：打开Hackintool,点击USB选项，点击下面扫帚按钮，然后再点击刷新按钮，分别用usb2.0和3.0插入每一个端口，2.0端口选择2.0；3.0端口保留两个，一个选择2.0一个3.0；键盘、鼠标、蓝牙、音箱等选择内建，所有端口保留15个以内，完成后点击导出按钮，把生成的usnports.kext加载到OC配置文件config.plist的Kernel-Add里面（红色口usb3.1可以不定制，只要设备不插在3.1口里就可以正常睡眠）
+
+4.显卡注入：打开Hackintool，点击PCIe找到自己对应显卡，然后复制Device path，添加到config.plist的DeviceProperties-Add第三个，根据你的显卡型号，去下载白苹果数据，找到显卡参数，修改里面的内容
 
 
 
