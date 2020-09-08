@@ -46,7 +46,7 @@
 
 #### 四、系统截图
 
-![](https://thumbnail0.baidupcs.com/thumbnail/a7d2d8449t0113e313d1b768b3f409d2?fid=414463553-250528-1102366017834459&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-LRR81kci4BDHVI2c3M89F7TixZo%3d&expires=8h&chkbd=0&chkv=0&dp-logid=5832568173608378738&dp-callid=0&time=1599534000&size=c10000_u10000&quality=90&vuk=414463553&ft=image)
+![](https://thumbnail0.baidupcs.com/thumbnail/12dffdff4ka657eb59607802273f49f4?fid=414463553-250528-577164214933907&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-PVHi0KJ%2b7ehqjKdY0gQne%2boASp4%3d&expires=8h&chkbd=0&chkv=0&dp-logid=5832649095344697369&dp-callid=0&time=1599534000&size=c10000_u10000&quality=90&vuk=414463553&ft=image)
 
 
 
