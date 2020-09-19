@@ -54,13 +54,13 @@
 
 #### 四、系统截图
 
-![](截图/1.png)
+![](https://github.com/MyBin97/OpneCore/blob/master/截图/1.png)
 
-![](截图/2.png)
+![](https://github.com/MyBin97/OpneCore/blob/master/截图/2.png)
 
-![](截图/3.png)
+![](https://github.com/MyBin97/OpneCore/blob/master/截图/3.png)
 
-![](截图/4.png)
+![](https://github.com/MyBin97/OpneCore/blob/master/截图/4.png)
 
 
 
