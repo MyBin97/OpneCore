@@ -4,11 +4,9 @@
 
 #### 一、说明
 
-1.当前OC版本：正式版0.6.0，支持Catalina 15.6及以下系统（需要引导BigSur请下载[Beat](https://github.com/MyBin97/OpneCore/tree/Beat)分支版引导文件)
+1.当前OC版本：正式版0.6.1，支持BigSur、Catalina 15.6及以下系统
 
-2.如果你的主板、显卡和我一模一样，那你可以下载[Perfect](https://github.com/MyBin97/OpneCore/tree/Perfect)版本，这个是我自己使用的，比较完善，并且会优先更新；如果只有主板一样也可以用，只需要把显卡注入项删除
-
-3.我的配置:
+2.我的配置:
 
 
 | 主板  |          MSI B450M MORTAR MAX 迫击炮          |
@@ -22,22 +20,30 @@
 
 1.只是个人兴趣分享，每个人具体配置不同，会出现的问题也不一样，有问题可以跟我说，能解决就解决
 
-2.默认开启-v跑码、显示Nvram等启动项，安装成功后可自行关闭
+2.安装成功后请自行更改三码
 
-3.安装成功后请自行更改三码
+3.安装成功后自行注入声卡、网卡、显卡地址以及USB定制（可解决声音、Siri、iMessage、发挥显卡win下性能、睡眠唤醒），参考**其它**或自行搜索相关教程
 
-4.安装成功后自行注入声卡、网卡、显卡地址以及USB定制（可解决声音、Siri、iMessage、发挥显卡win下性能、睡眠唤醒），参考**其它**或自行搜索相关教程
+4.测试主板：MSI B450 PRO VDH、B450M MORTAR MAX，在这两块主板上各项工能都正常
 
-5.测试主板：MSI B450 PRO VDH、B450M MORTAR MAX，在这两块主板上各项工能都正常
-
-6.因为没有无线网卡，所以相关功能无法测试
+5.因为没有无线网卡，所以相关功能无法测试
 
 
 #### 三、更新内容
 
+#####
+
+1.更新正式版 OC0.6.1
+
+2.同步KEXT驱动更新
+
+3.更新OC主题图标
+
+4.支持BigSur和Catalina
+
 ##### 2020.9.4日
 
-1.更新正式版OC0.6.0
+1.更新正式版 OC0.6.0
 
 2.更新全部KEXT驱动为最新
 
@@ -54,13 +60,13 @@
 
 **大致步骤**
 
-1.网卡内建：打开Hackintool，点击PCIe找到自己对应网卡，然后复制Device path，然后填写到OC配置文件config.plist的DeviceProperties-Add第二个里面
+1.声卡注入：打开Hackintool，点击PCIe找到自己对应网卡，然后复制Device path，然后填写到OC配置文件config.plist的DeviceProperties-Add第一个里面
 
-2.声卡注入：打开Hackintool，点击PCIe找到自己对应网卡，然后复制Device path，然后填写到OC配置文件config.plist的DeviceProperties-Add第一个里面
+2.网卡内建：打开Hackintool，点击PCIe找到自己对应网卡，然后复制Device path，然后填写到OC配置文件config.plist的DeviceProperties-Add第二个里面
 
 3.USB定制：打开Hackintool,点击USB选项，点击下面扫帚按钮，然后再点击刷新按钮，分别用usb2.0和3.0插入每一个端口，2.0端口选择2.0；3.0端口保留两个，一个选择2.0一个3.0；键盘、鼠标、蓝牙、音箱等选择内建，所有端口保留15个以内，完成后点击导出按钮，把生成的usnports.kext加载到OC配置文件config.plist的Kernel-Add里面（红色口usb3.1可以不定制，只要设备不插在3.1口里就可以正常睡眠）
 
-4.显卡注入：打开Hackintool，点击PCIe找到自己对应显卡，然后复制Device path，添加到config.plist的DeviceProperties-Add第三个，根据你的显卡型号，去下载白苹果数据，找到显卡参数，对应复制到Add第三个里面
+4.显卡注入：打开Hackintool，点击PCIe找到自己对应显卡，然后复制Device path，添加到config.plist的DeviceProperties-Add第三个，根据你的显卡型号，去下载白苹果数据，找到显卡参数，对应复制到Add第三个里面（rx580显卡可以直接粘贴Device path到这里，这里的参数我设置好的）
 
 
 
