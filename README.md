@@ -89,6 +89,8 @@
 
 3.[精解OpenCore BY 黑果小兵](https://blog.daliansky.net/OpenCore-BootLoader.html)
 
+4.[AMD平台修复PS](https://gist.github.com/naveenkrdy/26760ac5135deed6d0bb8902f6ceb6bd)
+
 
 
 
