@@ -81,6 +81,13 @@
 4.显卡注入：打开Hackintool，点击PCIe找到自己对应显卡，然后复制Device path，添加到config.plist的DeviceProperties-Add第三个，根据你的显卡型号，去下载白苹果数据，找到显卡参数，对应复制到Add第三个里面（rx580显卡可以直接粘贴Device path到这里，这里的参数我设置好的）
 
 
+#### 六、相关链接
+
+1.[远景论坛帖子](http://bbs.pcbeta.com/forum-561-1.html)
+
+2.[Opencore相关教程BY XJN](https://blog.xjn819.com/?p=543)
+
+
 
 
 
