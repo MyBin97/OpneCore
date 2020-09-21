@@ -85,8 +85,9 @@
 
 1.[远景论坛帖子](http://bbs.pcbeta.com/forum-561-1.html)
 
-2.[Opencore相关教程BY XJN](https://blog.xjn819.com/?p=543)
+2.[使用OpenCore引导黑苹果 BY XJN](https://blog.xjn819.com/?p=543)
 
+3.[精解OpenCore BY 黑果小兵](https://blog.daliansky.net/OpenCore-BootLoader.html)
 
 
 
